@@ -1,0 +1,1 @@
+Untuk menggunakan database harus menggunakan xampp, dikarenakan menggunakan localhost.
